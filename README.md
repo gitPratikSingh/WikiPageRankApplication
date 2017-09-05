@@ -1,2 +1,4 @@
 # WikiPageRankApplication
-Application to estimate PageRank values of currently available Wikipedia articles using MapReduce Jobs. It is PySpark implemnation, based on iterative idealized and taxation based PageRank algorithms.
+Application to estimate page ranks of currently available Wikipedia articles using mapreduce jobs on PySpark. This application uses iterative idealized and taxation based page rank algorithms to compute the rank.
+
+
