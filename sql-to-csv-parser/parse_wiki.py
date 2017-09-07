@@ -86,5 +86,3 @@ def parse_file(file_name, output_directory):
                 print ('last row processed %d, out of %d' % (i, value)) 
                 
     
-parse_file('simplewiki-20170901-page.sql', 'output')
-parse_file('simplewiki-20170901-pagelinks.sql', 'output')
