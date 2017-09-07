@@ -1,1 +1,14 @@
+This is the output file of the parser command parse_file('simplewiki-20170901-page.sql', 'output')
 
+  page_id
+  page_namespace
+  page_title
+  page_restrictions
+  page_counter
+  page_is_redirect
+  page_is_new
+  page_random
+  page_touched
+  page_links_updated
+  page_latest
+  page_len
